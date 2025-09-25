@@ -1,16 +1,18 @@
 <h1 align="center">Hola 👋, soy Viny / AndroidDev ✨</h1>
 
-<a href="https://www.linkedin.com/in/vinicius-bazterrica-263a8b297/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinicius-bazterrica-263a8b297/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-<a href="mailto:vbazterrica@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+  <a href="mailto:vbazterrica@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 
-<a href="https://github.com/vinybazterrica" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+  <a href="https://github.com/vinybazterrica" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 <br>
 
