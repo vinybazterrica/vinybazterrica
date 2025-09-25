@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Viny / AndroidDev ✨</h1>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/vinicius-bazterrica-263a8b297/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="[[https://linkedin.com/in/vinicius-bazterrica-263a8b297](https://www.linkedin.com/in/vinicius-bazterrica-263a8b297)](https://www.linkedin.com/in/vinicius-bazterrica-263a8b297/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:vbazterrica@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="[https://github.com/tu-usuario](https://github.com/vinybazterrica)" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="[[https://github.com/vinybazterrica](https://github.com/vinybazterrica)](https://github.com/vinybazterrica)" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <br>
