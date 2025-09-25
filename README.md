@@ -27,37 +27,11 @@
 
 <br>
 
-<h2>Proyectos destacados 📱</h2>
-<table align="left">
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-      <a href="https://github.com/tu-usuario/Proyecto1" title="Proyecto 1">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/tu-usuario/tu-repo/main/assets/proyecto1.webp" alt="Proyecto 1" />
-      </a>
-    </p>
-    <p align="center">
-      <a href="https://github.com/tu-usuario/Proyecto1" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    </p>
-  </td>
-  <td width="25%" align="center">
-    <p align="center">
-      <a href="https://github.com/tu-usuario/Proyecto2" title="Proyecto 2">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/tu-usuario/tu-repo/main/assets/proyecto2.webp" alt="Proyecto 2" />
-      </a>
-    </p>
-    <p align="center">
-      <a href="https://github.com/tu-usuario/Proyecto2" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    </p>
-  </td>
-</tr>
-</table>
-
 <br><br><br>
 
 <h2>GitHub Stats :octocat:</h2>
 <p align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=dark&hide_border=false" />
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vinybazterrica&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
