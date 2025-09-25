@@ -27,13 +27,7 @@
 
 <br>
 
-<br><br><br>
-
 <h2>GitHub Stats :octocat:</h2>
-<p align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vinybazterrica&theme=dark&hide_border=false" />
-</p>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinybazterrica&theme=dark&hide_border=false&langs_count=10" />
 </p>
