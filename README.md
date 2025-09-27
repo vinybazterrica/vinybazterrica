@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Viny / AndroidDev ✨</h1>
+<h1 align="center">Hola 👋, soy Viny / AndroidDev </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vinicius-bazterrica-263a8b297/" target="_blank" style="text-decoration:none;">
