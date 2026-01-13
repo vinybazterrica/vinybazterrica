@@ -20,7 +20,7 @@
 <p align="left">
 💻 Soy desarrollador Android con <b>4 años de experiencia</b> en la creación de aplicaciones móviles eficientes y con buen diseño.<br>
 🚀 Experto en <b>Java y Kotlin</b> y amplio conocimiento en <b>layouts con XML</b>.<br>
-🎯 Con experiencia aplicando <b>patrones de diseño MVP y MVVM</b> y usando librerías y SDKs como <b>Firebase</b>, Retrofit, Glide, Room y más.<br>
+🎯 Con experiencia aplicando <b>patrones de diseño MVP, MVVM implementando casos de uso (UseCase)</b> y usando librerías y SDKs como <b>Firebase</b>, Retrofit, Glide, Room y más.<br>
 📚 Me encanta aprender nuevas herramientas, mejorar la experiencia de usuario y mantener código limpio y escalable.
 </p>
 
